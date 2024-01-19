@@ -1,0 +1,3 @@
+command to use curl:
+
+curl -X GET -H "Content-Type: application/json" -d '{"uri": "https://www.fluentu.com/blog/wp-content/uploads/2023/03/woman-reading-sitting-on-the-world.jpg"}' http://localhost:3000/api/v1/analysis/
